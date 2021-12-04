@@ -1,0 +1,105 @@
+            body {
+                text-shadow: 1.4px 2.1px 4px rgb(255, 0, 221);
+                text-align: center;
+                font-family: monospace;
+                font-size: 30px;
+                background-image: url(https://images3.alphacoders.com/248/248885.jpg);
+            }
+            
+            h1 {
+                color: rgb(59, 253, 0);
+                text-shadow: 1.4px 2.1px 4px rgb(255, 0, 221);
+            }
+            
+            h2 {
+                color: rgb(157, 255, 0);
+                text-shadow: 1.4px 2.1px 4px rgb(0, 0, 0);
+            }
+            
+            * {
+                transition: all 0.3s;
+            }
+            
+            button {
+                width: 200px;
+                height: 50px;
+                background-color: rgb(48, 3, 48);
+                outline: none;
+                border-radius: 5px;
+                color: rgb(92, 248, 1);
+                border-color: rgb(255, 0, 255);
+                font-weight: bold;
+                font-family: monospace;
+                border: none;
+                font-size: 25px;
+                box-shadow: 1.4px 2.1px 4px rgb(255, 0, 221);
+            }
+            
+            button:hover {
+                background-color: rgb(92, 248, 1);
+                cursor: pointer;
+                color: rgb(48, 3, 48);
+                transition-duration: 710ms;
+                box-shadow: 1.4px 2.1px 4px rgb(157, 243, 108);
+                border: none;
+            }
+            
+            button:active {
+                background-color: rgb(195, 248, 164);
+                cursor: pointer;
+                transition-duration: 0.1ms;
+                color: rgb(92, 248, 1);
+                box-shadow: 1.4px 2.1px 4px rgb(199, 246, 171);
+                border: none;
+            }
+            
+            Input {
+                width: 200px;
+                height: 50px;
+                background-color: rgb(48, 3, 48);
+                outline: none;
+                border-radius: 5px;
+                color: rgb(92, 248, 1);
+                border-color: rgb(255, 0, 255);
+                font-weight: bold;
+                font-family: monospace;
+                border: none;
+                font-size: 25px;
+                box-shadow: 1.4px 2.1px 4px rgb(255, 0, 221);
+            }
+            
+            Input:hover {
+                background-color: rgb(92, 248, 1);
+                cursor: pointer;
+                color: rgb(48, 3, 48);
+                transition-duration: 710ms;
+                box-shadow: 1.4px 2.1px 4px rgb(157, 243, 108);
+                border: none;
+            }
+            
+            Input:active {
+                background-color: rgb(195, 248, 164);
+                cursor: pointer;
+                transition-duration: 0.1ms;
+                color: rgb(92, 248, 1);
+                box-shadow: 1.4px 2.1px 4px rgb(199, 246, 171);
+                border: none;
+            }
+            
+            input::-webkit-outer-spin-button,
+            input::-webkit-inner-spin-button {
+                -webkit-appearance: none;
+            }
+            
+            img {
+                width: 700px;
+                height: 500px;
+            }
+            
+            h3 {
+                color: rgb(1, 236, 248);
+                font-size: 50px;
+                margin-left: -1%;
+                margin-top: -40vh;
+                text-shadow: 1.4px 2.1px 4px rgb(0, 17, 255);
+            }
